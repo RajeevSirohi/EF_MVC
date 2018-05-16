@@ -8,7 +8,7 @@ namespace Rent_a_place.Controllers
 {
     public class AccountController : Controller
     {
-        // GET: Account
+        // GET: Account-added
         public ActionResult Index()
         {
             return View();
